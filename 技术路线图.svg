@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="980" viewBox="0 0 1600 980">
+  <defs>
+    <style>
+      .title { font: 700 40px 'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif; fill:#0d3b66; }
+      .colHead { font: 700 30px 'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif; fill:#ffffff; }
+      .boxTitle { font: 700 22px 'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif; fill:#0d3b66; }
+      .text { font: 500 18px 'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif; fill:#1f2937; }
+      .goal { font: 600 19px 'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif; fill:#1f2937; }
+      .small { font: 500 16px 'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif; fill:#334155; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#3b82f6"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1600" height="980" fill="#f8fafc"/>
+  <text x="800" y="60" text-anchor="middle" class="title">甜玉米灌浆期高温诱导籽粒败育技术路线图</text>
+
+  <!-- Left vertical title bar -->
+  <rect x="30" y="110" width="90" height="800" rx="16" fill="#0d3b66"/>
+  <text x="75" y="200" text-anchor="middle" writing-mode="tb" glyph-orientation-vertical="0" style="font:700 34px 'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif; fill:#ffffff; letter-spacing:3px;">研究总体设计</text>
+
+  <!-- Column headers -->
+  <rect x="150" y="110" width="430" height="64" rx="12" fill="#2563eb"/>
+  <text x="365" y="151" text-anchor="middle" class="colHead">研究方法</text>
+
+  <rect x="600" y="110" width="430" height="64" rx="12" fill="#2563eb"/>
+  <text x="815" y="151" text-anchor="middle" class="colHead">研究内容</text>
+
+  <rect x="1050" y="110" width="520" height="64" rx="12" fill="#2563eb"/>
+  <text x="1310" y="151" text-anchor="middle" class="colHead">研究目标</text>
+
+  <!-- Left column: methods -->
+  <rect x="150" y="190" width="430" height="150" rx="14" fill="#eaf2ff" stroke="#93c5fd"/>
+  <text x="170" y="224" class="boxTitle">供试材料</text>
+  <text x="170" y="258" class="text">• 甜玉米：粤甜16、浙甜922</text>
+  <text x="170" y="288" class="text">• 对照材料：普通玉米自交系 B73</text>
+
+  <rect x="150" y="356" width="430" height="232" rx="14" fill="#eaf2ff" stroke="#93c5fd"/>
+  <text x="170" y="390" class="boxTitle">高温处理设计（DAP）</text>
+  <text x="170" y="424" class="text">• 5 d：3-8、8-13、13-18、18-23</text>
+  <text x="170" y="454" class="text">• 10 d：3-13、13-23</text>
+  <text x="170" y="484" class="text">• 20 d：3-23</text>
+  <text x="170" y="514" class="text">• 对照：CK</text>
+  <text x="170" y="548" class="text">共 8 个处理，聚焦籽粒败育发生时段</text>
+
+  <rect x="150" y="606" width="430" height="150" rx="14" fill="#eaf2ff" stroke="#93c5fd"/>
+  <text x="170" y="640" class="boxTitle">单箱体试验质量控制</text>
+  <text x="170" y="674" class="text">• 单一气候箱 + 分批次独立重复</text>
+  <text x="170" y="704" class="text">• 箱内随机摆放 + 定期轮换</text>
+  <text x="170" y="734" class="text">• 穗位温湿度连续监测</text>
+
+  <rect x="150" y="772" width="430" height="136" rx="14" fill="#eaf2ff" stroke="#93c5fd"/>
+  <text x="170" y="806" class="boxTitle">取样时间点</text>
+  <text x="170" y="840" class="text">DAP8 / DAP13 / DAP18 / DAP23</text>
+  <text x="170" y="870" class="text">（窗口末端 + 终点调查）</text>
+
+  <!-- Middle column: modules I-IV -->
+  <rect x="600" y="190" width="430" height="150" rx="14" fill="#eefcf3" stroke="#86efac"/>
+  <text x="620" y="224" class="boxTitle">模块 I：关键窗口与败育类型</text>
+  <text x="620" y="258" class="text">• 界定不可逆败育热敏窗口</text>
+  <text x="620" y="288" class="text">• 判定第一期/第二期败育构成</text>
+
+  <rect x="600" y="356" width="430" height="192" rx="14" fill="#eefcf3" stroke="#86efac"/>
+  <text x="620" y="390" class="boxTitle">模块 II：生理机制解析</text>
+  <text x="620" y="424" class="text">• 激素：ABA、GA（ABA/GA）</text>
+  <text x="620" y="454" class="text">• ROS：O₂⁻、H₂O₂、MDA；SOD/POD/CAT</text>
+  <text x="620" y="484" class="text">• 淀粉代谢：AGPase、SSS、SBE</text>
+  <text x="620" y="514" class="text">• 组织学：胚乳建成与充实特征</text>
+
+  <rect x="600" y="566" width="430" height="150" rx="14" fill="#eefcf3" stroke="#86efac"/>
+  <text x="620" y="600" class="boxTitle">模块 III：qPCR 分子响应</text>
+  <text x="620" y="634" class="text">• 热响应基因：HSFs</text>
+  <text x="620" y="664" class="text">• 淀粉代谢基因：su1、AGPase、SSS、SBEIIb</text>
+
+  <rect x="600" y="732" width="430" height="176" rx="14" fill="#eefcf3" stroke="#86efac"/>
+  <text x="620" y="766" class="boxTitle">模块 IV：评价体系构建</text>
+  <text x="620" y="800" class="text">• 融合败育率、败育类型、结实率</text>
+  <text x="620" y="830" class="text">• 联合 ABA/GA、ROS、淀粉合成指标</text>
+  <text x="620" y="860" class="text">• 构建灌浆期耐热综合评价系统</text>
+
+  <!-- Right column: goals aligned -->
+  <rect x="1050" y="190" width="520" height="150" rx="14" fill="#fff4ea" stroke="#fdba74"/>
+  <text x="1070" y="230" class="goal">目标1：明确关键热敏窗口</text>
+  <text x="1070" y="264" class="text">确定导致不可逆败育的关键时段，</text>
+  <text x="1070" y="294" class="text">并厘清第一期/第二期败育时序关系。</text>
+
+  <rect x="1050" y="356" width="520" height="192" rx="14" fill="#fff4ea" stroke="#fdba74"/>
+  <text x="1070" y="396" class="goal">目标2：阐明“库端受损”机制链</text>
+  <text x="1070" y="430" class="text">揭示激素失衡、ROS积累与淀粉合成受抑</text>
+  <text x="1070" y="460" class="text">如何共同导致胚乳建成失败与败育发生。</text>
+
+  <rect x="1050" y="566" width="520" height="150" rx="14" fill="#fff4ea" stroke="#fdba74"/>
+  <text x="1070" y="606" class="goal">目标3：解析关键分子响应特征</text>
+  <text x="1070" y="640" class="text">筛选与高温败育相关候选基因，</text>
+  <text x="1070" y="670" class="text">为耐热分子改良提供依据。</text>
+
+  <rect x="1050" y="732" width="520" height="176" rx="14" fill="#fff4ea" stroke="#fdba74"/>
+  <text x="1070" y="772" class="goal">目标4：建立耐热评价指标体系</text>
+  <text x="1070" y="806" class="text">形成可用于甜玉米灌浆期耐热筛选的</text>
+  <text x="1070" y="836" class="text">“败育表型 + 生理生化”综合评价方法。</text>
+
+  <!-- horizontal align arrows -->
+  <line x1="1032" y1="265" x2="1048" y2="265" stroke="#3b82f6" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="1032" y1="452" x2="1048" y2="452" stroke="#3b82f6" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="1032" y1="642" x2="1048" y2="642" stroke="#3b82f6" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="1032" y1="820" x2="1048" y2="820" stroke="#3b82f6" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- bottom boxes and arrows -->
+  <rect x="170" y="925" width="260" height="38" rx="8" fill="#dbeafe" stroke="#60a5fa"/>
+  <text x="300" y="950" text-anchor="middle" class="small">处理实施与规范取样</text>
+
+  <rect x="470" y="925" width="260" height="38" rx="8" fill="#dcfce7" stroke="#4ade80"/>
+  <text x="600" y="950" text-anchor="middle" class="small">多层级指标测定</text>
+
+  <rect x="770" y="925" width="260" height="38" rx="8" fill="#fef3c7" stroke="#f59e0b"/>
+  <text x="900" y="950" text-anchor="middle" class="small">机制整合与统计建模</text>
+
+  <rect x="1070" y="925" width="420" height="38" rx="8" fill="#fee2e2" stroke="#f87171"/>
+  <text x="1280" y="950" text-anchor="middle" class="small">输出：甜玉米灌浆期高温耐热评价体系</text>
+
+  <line x1="430" y1="944" x2="468" y2="944" stroke="#3b82f6" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="730" y1="944" x2="768" y2="944" stroke="#3b82f6" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="1030" y1="944" x2="1068" y2="944" stroke="#3b82f6" stroke-width="3" marker-end="url(#arrow)"/>
+</svg>
