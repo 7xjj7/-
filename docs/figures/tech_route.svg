@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1080" viewBox="0 0 1800 1080">
+<defs><style><![CDATA[.title{font:700 36px "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; fill:#1f2a44;}.h{font:700 26px "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; fill:#ffffff;}.b{font:500 20px "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; fill:#1f2a44;}.s{font:500 18px "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; fill:#1f2a44;}]]></style></defs>
+<rect x="0" y="0" width="1800" height="1080" fill="#f7f9fc"/>
+<text x="900" y="65" text-anchor="middle" class="title">甜玉米灌浆期高温诱导籽粒败育研究技术路线图</text>
+<rect x="70" y="100" rx="10" ry="10" width="480" height="56" fill="#3e7cb1"/>
+<text x="310.0" y="136" text-anchor="middle" class="h">研究方法与实验设计</text>
+<rect x="640" y="100" rx="10" ry="10" width="480" height="56" fill="#2f9e8f"/>
+<text x="880.0" y="136" text-anchor="middle" class="h">研究内容（模块）</text>
+<rect x="1240" y="100" rx="10" ry="10" width="480" height="56" fill="#7a5ea6"/>
+<text x="1480.0" y="136" text-anchor="middle" class="h">研究目标</text>
+<rect x="70" y="180" rx="10" ry="10" width="480" height="150" fill="#eaf2fb" stroke="#3e7cb1" stroke-width="2"/>
+<text x="88" y="212" class="b">材料与分组</text>
+<text x="88" y="242" class="s">• 材料：粤甜16、浙甜922、B73（参照）</text>
+<text x="88" y="270" class="s">• 处理：DAP3-8、8-13、13-18、18-23、</text>
+<text x="88" y="298" class="s">•       3-13、13-23、3-23、CK</text>
+<rect x="70" y="350" rx="10" ry="10" width="480" height="160" fill="#eaf2fb" stroke="#3e7cb1" stroke-width="2"/>
+<text x="88" y="382" class="b">高温处理与试验组织</text>
+<text x="88" y="412" class="s">• 单气候箱实施全部处理</text>
+<text x="88" y="440" class="s">• 分批次独立重复（Batch）</text>
+<text x="88" y="468" class="s">• 箱内随机摆放 + 定期轮换/换位</text>
+<rect x="70" y="530" rx="10" ry="10" width="480" height="140" fill="#eaf2fb" stroke="#3e7cb1" stroke-width="2"/>
+<text x="88" y="562" class="b">动态取样</text>
+<text x="88" y="592" class="s">• 窗口末端采样：DAP8 / 13 / 18</text>
+<text x="88" y="620" class="s">• 终点调查：DAP23</text>
+<rect x="70" y="690" rx="10" ry="10" width="480" height="230" fill="#eaf2fb" stroke="#3e7cb1" stroke-width="2"/>
+<text x="88" y="722" class="b">关键测定与统计</text>
+<text x="88" y="752" class="s">• 结实率、败育类型（一期/二期）</text>
+<text x="88" y="780" class="s">• 组织学（胚乳建成/细胞化）</text>
+<text x="88" y="808" class="s">• 激素：ABA、GA（ABA/GA）</text>
+<text x="88" y="836" class="s">• ROS与抗氧化：H2O2、MDA、SOD/POD/CAT</text>
+<text x="88" y="864" class="s">• 淀粉合成酶：AGPase、SSS、SBE</text>
+<text x="88" y="892" class="s">• qPCR候选基因表达</text>
+<text x="88" y="920" class="s">• 统计：GLMM/LMM（Batch为随机效应）</text>
+<rect x="640" y="180" rx="10" ry="10" width="480" height="180" fill="#e8f7f4" stroke="#2f9e8f" stroke-width="2"/>
+<text x="658" y="212" class="b">I 关键窗口期识别</text>
+<text x="658" y="242" class="s">• 比较8个高温时段处理的败育率差异</text>
+<text x="658" y="270" class="s">• 界定不可逆败育热敏窗口</text>
+<rect x="640" y="380" rx="10" ry="10" width="480" height="185" fill="#e8f7f4" stroke="#2f9e8f" stroke-width="2"/>
+<text x="658" y="412" class="b">II 生理机制解析</text>
+<text x="658" y="442" class="s">• 激素：ABA/GA失衡</text>
+<text x="658" y="470" class="s">• ROS稳态破坏与氧化损伤</text>
+<text x="658" y="498" class="s">• 淀粉合成关键酶活受抑（AGPase/SSS/SBE）</text>
+<rect x="640" y="585" rx="10" ry="10" width="480" height="160" fill="#e8f7f4" stroke="#2f9e8f" stroke-width="2"/>
+<text x="658" y="617" class="b">III 分子响应（qPCR）</text>
+<text x="658" y="647" class="s">• 候选：HSFs、su1、AGPase、SSS、SBEIIb</text>
+<text x="658" y="675" class="s">• 关键窗口期表达响应筛选</text>
+<rect x="640" y="765" rx="10" ry="10" width="480" height="150" fill="#e8f7f4" stroke="#2f9e8f" stroke-width="2"/>
+<text x="658" y="797" class="b">IV 评价指标体系构建</text>
+<text x="658" y="827" class="s">• 整合败育表型 + 生理生化 + 分子指标</text>
+<text x="658" y="855" class="s">• 形成耐热评价流程与指标组合</text>
+<rect x="1240" y="220" rx="10" ry="10" width="480" height="130" fill="#f2ecfb" stroke="#7a5ea6" stroke-width="2"/>
+<text x="1258" y="252" class="b">目标1</text>
+<text x="1258" y="282" class="s">明确灌浆期高温诱导籽粒败育的关键敏感时段</text>
+<rect x="1240" y="390" rx="10" ry="10" width="480" height="150" fill="#f2ecfb" stroke="#7a5ea6" stroke-width="2"/>
+<text x="1258" y="422" class="b">目标2</text>
+<text x="1258" y="452" class="s">阐明“激素失衡-ROS损伤-淀粉合成受抑</text>
+<text x="1258" y="480" class="s">”协同机制</text>
+<rect x="1240" y="580" rx="10" ry="10" width="480" height="120" fill="#f2ecfb" stroke="#7a5ea6" stroke-width="2"/>
+<text x="1258" y="612" class="b">目标3</text>
+<text x="1258" y="642" class="s">筛选与败育相关的分子候选指标（qPCR）</text>
+<rect x="1240" y="740" rx="10" ry="10" width="480" height="140" fill="#f2ecfb" stroke="#7a5ea6" stroke-width="2"/>
+<text x="1258" y="772" class="b">目标4</text>
+<text x="1258" y="802" class="s">建立以败育为核心的甜玉米耐热评价体系</text>
+<line x1="550" y1="245" x2="620" y2="245" stroke="#6b7280" stroke-width="3"/>
+<polygon points="620,238 640,245 620,252" fill="#6b7280"/>
+<line x1="550" y1="470" x2="620" y2="470" stroke="#6b7280" stroke-width="3"/>
+<polygon points="620,463 640,470 620,477" fill="#6b7280"/>
+<line x1="550" y1="665" x2="620" y2="665" stroke="#6b7280" stroke-width="3"/>
+<polygon points="620,658 640,665 620,672" fill="#6b7280"/>
+<line x1="550" y1="840" x2="620" y2="840" stroke="#6b7280" stroke-width="3"/>
+<polygon points="620,833 640,840 620,847" fill="#6b7280"/>
+<line x1="1120" y1="285" x2="1220" y2="285" stroke="#6b7280" stroke-width="3"/>
+<polygon points="1220,278 1240,285 1220,292" fill="#6b7280"/>
+<line x1="1120" y1="480" x2="1220" y2="480" stroke="#6b7280" stroke-width="3"/>
+<polygon points="1220,473 1240,480 1220,487" fill="#6b7280"/>
+<line x1="1120" y1="665" x2="1220" y2="665" stroke="#6b7280" stroke-width="3"/>
+<polygon points="1220,658 1240,665 1220,672" fill="#6b7280"/>
+<line x1="1120" y1="820" x2="1220" y2="820" stroke="#6b7280" stroke-width="3"/>
+<polygon points="1220,813 1240,820 1220,827" fill="#6b7280"/>
+</svg>
