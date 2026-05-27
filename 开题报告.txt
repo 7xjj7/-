@@ -38,36 +38,67 @@
 　　目前，国内外关于高温胁迫的研究多集中于普通玉米的产量性状，而对甜玉米这一高价值作物在灌浆期高温下的响应机制，特别是其品质形成与高温胁迫的互作关系，缺乏系统性的深入研究。因此，本研究聚焦于灌浆期高温对甜玉米籽粒发育的专有影响，旨在揭示其生理与分子机制，对于应对气候变化、保障鲜食玉米产业可持续发展、指导耐热优质甜玉米品种选育具有重要的理论意义和实际应用价值。
 
 （二）国内外研究进展
-1. 全球变暖背景下的作物高温风险
-　　已有研究表明，全球气候变化已对主要粮食作物产量造成持续影响，气候趋势与极端天气事件均会显著增加减产风险[1][2][3]。
-2. 高温胁迫对作物生长与灌浆的普遍影响
-　　高温会系统性影响作物生长发育过程，包括光合能力下降、物质同化受限和灌浆进程缩短，从而影响最终产量形成[4][5][6][7]。
-3. 生殖生长期热害机理研究
-生殖生长期对高温最为敏感，热胁迫可通过影响受精结实、花器官活力和同化物分配导致结实率下降；相关机理研究已在谷类与豆类作物中得到较充分证据支持[8][9][10][11]。
-4. 玉米与甜玉米研究现状及不足
-针对玉米，高温胁迫下的生理生化与分子响应已有综述性总结[12]；但面向甜玉米具体品种（如粤甜16、浙甜922）在灌浆期高温条件下“产量-品质协同变化”的系统研究仍相对不足[13][14]。
-综上，现有文献已明确高温风险与一般作用机制，但对甜玉米灌浆期高温下籽粒发育与品质劣变的耦合机制仍需进一步细化。
-　　（以上引用与参考文献按编号一一对应）
-展望
-　　玉米是我国重要的粮食作物，在农业生产和国民经济中占有极其重要的地位。花期高温严重制约玉米的丰产稳产。目前对于玉米花期高温胁迫的研究主要集中在高温持续时间较长，多个生育过程的共同响应的研究，围绕玉米雄穗，即花药和花粉发育、花粉活力等开展了大量研究，但对于短时间高温胁迫下玉米结实率降低，导致玉米产量降低的原因尚不明确。基于现有花期高温胁迫的相关研究进展以及短期热敏阶段高温的前期探索，针对热敏高温胁迫提出了以下研究关注重点：1、热敏阶段高温抑制了授粉受精生育进程发生的场所及原因尚未清晰需进一步验证。2、热敏阶段高温胁迫与糖供给之间的关系以及影响机制尚未阐明，外源糖摄入能否缓解胁迫效应，做到有效避险抗逆并不明确。
+1. 全球变暖升温幅度与作物风险已具备高一致性证据
+　　IPCC AR6综合报告指出，2011—2020年全球地表温度较1850—1900年已升高约1.09℃（可能范围0.95—1.20℃）[1]；WMO进一步指出2023年全球年平均升温约1.45±0.12℃，高温背景已接近《巴黎协定》1.5℃阈值[2]。在此背景下，全球主要粮食作物减产风险持续升高：每升高1℃，玉米、小麦、水稻和大豆平均减产约7.4%、6.0%、3.2%和3.1%[4]。极端高温与复合灾害事件还会放大年际减产波动与粮食系统风险[5][8]。
+2. 高温影响作物产量/品质的主要机制
+　　现有研究表明，高温对作物的影响并非单一环节，而是“源—库—生殖过程”协同受损：叶片光合与同化物供给下降（源受限）、花器官与受精结实受抑（生殖受损）、灌浆历期缩短及淀粉沉积效率下降（库受限）[9][10][11][12]。在品质层面，高温还会改变糖-淀粉转化与挥发性代谢物积累，造成“产量下降+食用品质劣变”并发[14][15]。
+3. 玉米方向研究现状：普通玉米/糯玉米较多，甜玉米相对不足
+　　普通玉米高温研究已形成较系统证据链，重点覆盖开花授粉、籽粒建成与灌浆过程的产量损失机制及适应策略[6][9][13]。糯玉米研究则长期聚焦wx相关淀粉结构、糊化特性及加工品质改良，产业与加工导向明显[16]。相比之下，甜玉米研究更多集中于甜度基因（su1、sh2）与采后保鲜，针对“灌浆期持续高温—糖代谢—香气代谢—风味复杂性”耦合机制的研究仍明显不足[14][15]。
+4. 甜玉米风味复杂性遗传基础成为前沿，但与高温情景耦合研究缺口仍在
+　　Nature Genetics 2025发表的“Genetic basis of flavor complexity in sweet corn”系统解析了甜玉米风味复杂性的遗传基础，提示风味改良应从“单一甜度”转向“多维风味品质协同育种”[15]。然而，该方向与岭南高温季生产情景的衔接仍不足，特别是关键窗口与持续时长阈值、以及可用于生产诊断的指标组合尚待建立。
+
+5. 可直接用于“立项背景”的关键文献与要点（≥10篇）
+[1] IPCC, 2023, AR6 Synthesis Report.
+　　要点：全球2011—2020年较工业化前升温约1.09℃；不同升温路径下极端高温事件频率和强度显著增加，为农业热风险评估提供基准。
+[2] WMO, 2024, State of the Global Climate 2023.
+　　要点：2023年全球年平均升温约1.45±0.12℃，提示农业生产正处于“接近1.5℃”高风险区间；热浪与干旱叠加风险上升。
+[3] Lobell DB, Schlenker W, Costa-Roberts J. Science, 2011.
+　　要点：1980年以来气候趋势已对全球主要作物产量产生可检测影响，且区域差异显著，为“气候变化已发生影响”提供早期实证。
+[4] Zhao C, Liu B, Piao S, et al. Nature Climate Change, 2017.
+　　要点：四类独立估计一致显示升温导致全球主粮减产；每升高1℃，玉米平均减产约7.4%，是立项中“升温-减产幅度”最常用量化证据。
+[5] Lesk C, Rowhani P, Ramankutty N. Nature, 2016.
+　　要点：极端天气灾害可显著压低国家尺度谷物产出，说明“均值升温”之外，极端事件同样是产量波动的重要驱动。
+[6] Challinor AJ, Watson J, Lobell DB, et al. Nature Climate Change, 2014.
+　　要点：多研究整合显示气候变化对作物产量总体负效应明显，且中低纬热区受损更重；适应措施可部分缓解但难完全抵消。
+[7] Asseng S, Ewert F, Martre P, et al. Nature Climate Change, 2015.
+　　要点：全球多模型结果表明小麦在升温背景下呈稳定减产趋势（约6%/℃），为“升温-灌浆受损-减产”链条提供跨区域证据。
+[8] Ortiz-Bobea A, Ault TR, Carrillo CM, et al. Nature Climate Change, 2021.
+　　要点：人为气候变化已使全球农业全要素生产率显著下降，证明升温影响不仅体现在单季产量，也体现在长期农业生产能力。
+[9] Barnabás B, Jäger K, Fehér A. Plant, Cell & Environment, 2008.
+　　要点：阐明谷类作物生殖阶段对热/旱高度敏感，花粉活力与受精失败是结实率下降关键机制之一。
+[10] Ruan YL, Jin Y, Yang YJ, et al. Molecular Plant, 2010.
+　　要点：从蔗糖输入、转化与信号调控解释“源—库”限制如何导致籽粒建成受阻，是解析高温下糖代谢受扰的重要理论基础。
+[11] Jagadish SVK, Craufurd PQ, Wheeler TR. Journal of Experimental Botany, 2007.
+　　要点：生殖期热害可直接降低颖花受精与结实，为“关键窗口期热敏性”提供经典机制参考。
+[12] Hatfield JL, Prueger JH. Weather and Climate Extremes, 2015.
+　　要点：系统总结高温对作物生长发育阶段性影响，强调热害在生殖与灌浆阶段的放大效应。
+[13] Lobell DB, Bänziger M, Magorokosho C, Vivek B. Nature Climate Change, 2011.
+　　要点：历史试验数据揭示玉米对高温存在非线性减产响应，支持“短时极端高温可造成超比例损失”的判断。
+[14] Liu Y, Yu K, Li Y, et al. Maydica, 2020.
+　　要点：综述玉米高温胁迫下的生理、生化与分子响应，显示普通玉米热害研究体系已较完善。
+[15] Li K, Yu Y, Yan S, et al. Nature Genetics, 2025. Genetic basis of flavor complexity in sweet corn.
+　　要点：揭示甜玉米风味复杂性的关键遗传基础与代谢通路，提出风味改良应由“单一甜度”走向“多维风味协同”。
+[16] Li Q, Zhang Y, Zhang W, et al. Food Chemistry, 2022.
+　　要点：围绕糯玉米（waxy maize）淀粉改性与功能特性开展系统研究，反映糯玉米方向在品质加工端研究积累较多。
+
 　参考文献
-[1]1. Lobell D B, Schlenker W, Costa-Roberts J. Climate trends and global crop production since 1980. Science, 2011, 333(6042): 616-620.
-[2]2. Zhao C, Liu B, Piao S, et al. Temperature increase reduces global yields of major crops in four independent estimates. Nature Climate Change, 2017, 7(2): 126-132.
-[3]3. Lesk C, Rowhani P, Ramankutty N. Influence of extreme weather disasters on global crop production. Nature, 2016, 529(7584): 84-87.
-[4]4. Hatfield J L, Prueger J H. Temperature extremes: Effect on plant growth and development. Weather and Climate Extremes, 2015, 10: 4-10.
-[5]5. Bita C E, Gerats T. Plant tolerance to high temperature in a changing environment: scientific fundamentals and production of heat stress-tolerant crops. Journal of Experimental Botany, 2013, 64(4): 1099-1113.
-[6]6. Wahid A, Gelani S, Ashraf M, Foolad M R. Heat tolerance in plants: An overview. Environmental and Experimental Botany, 2007, 61(3): 199-223.
-[7]7. Hasanuzzaman M, Nahar K, Alam M M, Roychowdhury R, Fujita M. Physiological, biochemical, and molecular mechanisms of heat stress tolerance in plants. International Journal of Molecular Sciences, 2013, 14(5): 9643-9684.
-[8]8. Barnabás B, Jáger K, Fehér A. The effect of drought and heat stress on reproductive processes in cereals. Plant, Cell & Environment, 2008, 31(1): 11-38.
-[9]9. Ruan Y L, Jin Y, Yang Y J, Li G J, Boyer J S. Sugar input, metabolism, and signaling mediated by invertase: roles in development, yield potential, and response to drought and heat. Molecular Plant, 2010, 3(6): 942-955.
-[10]10. Jagadish S V K, Craufurd P Q, Wheeler T R. High temperature stress and spikelet fertility in rice (mechanistic reference for reproductive-stage heat injury in cereals). Journal of Experimental Botany, 2007, 58(7): 1627-1635.
-[11]11. Djanaguiraman M, Prasad P V V, Schapaugh W T. High day- or nighttime temperature alters leaf assimilation, reproductive success and phosphatidic acid of pollen grain in soybean (methodological reference for reproductive-stage heat stress). Crop Science, 2013, 53(4): 1594-1604.
-[12]12. Liu Y, Yu K, Li Y, et al. Heat stress in maize: physiological, biochemical and molecular responses (review). Maydica, 2020, 65(1): M1-M12.
-[13]13. Jiang K, et al. 粤甜16甜玉米品种特性及栽培要点. 现代农业科技, 2020.
-[14]14. 金逸婷. 浙甜922在杭州地区生育进程与适应性分析. 浙江农业科学, 2024.
-[15]
-[16]
-[17]
+[1] IPCC. Climate Change 2023: Synthesis Report. Intergovernmental Panel on Climate Change, 2023.
+[2] WMO. State of the Global Climate 2023. World Meteorological Organization, 2024.
+[3] Lobell D B, Schlenker W, Costa-Roberts J. Climate trends and global crop production since 1980. Science, 2011, 333(6042): 616-620.
+[4] Zhao C, Liu B, Piao S, et al. Temperature increase reduces global yields of major crops in four independent estimates. Nature Climate Change, 2017, 7(2): 126-132.
+[5] Lesk C, Rowhani P, Ramankutty N. Influence of extreme weather disasters on global crop production. Nature, 2016, 529(7584): 84-87.
+[6] Challinor A J, Watson J, Lobell D B, et al. A meta-analysis of crop yield under climate change and adaptation. Nature Climate Change, 2014, 4: 287-291.
+[7] Asseng S, Ewert F, Martre P, et al. Rising temperatures reduce global wheat production. Nature Climate Change, 2015, 5: 143-147.
+[8] Ortiz-Bobea A, Ault T R, Carrillo C M, et al. Anthropogenic climate change has slowed global agricultural productivity growth. Nature Climate Change, 2021, 11: 306-312.
+[9] Barnabás B, Jäger K, Fehér A. The effect of drought and heat stress on reproductive processes in cereals. Plant, Cell & Environment, 2008, 31(1): 11-38.
+[10] Ruan Y L, Jin Y, Yang Y J, et al. Sugar input, metabolism, and signaling mediated by invertase: roles in development, yield potential, and response to drought and heat. Molecular Plant, 2010, 3(6): 942-955.
+[11] Jagadish S V K, Craufurd P Q, Wheeler T R. High temperature stress and spikelet fertility in rice. Journal of Experimental Botany, 2007, 58(7): 1627-1635.
+[12] Hatfield J L, Prueger J H. Temperature extremes: effect on plant growth and development. Weather and Climate Extremes, 2015, 10: 4-10.
+[13] Lobell D B, Bänziger M, Magorokosho C, Vivek B. Nonlinear heat effects on African maize as evidenced by historical yield trials. Nature Climate Change, 2011, 1: 42-45.
+[14] Liu Y, Yu K, Li Y, et al. Heat stress in maize: physiological, biochemical and molecular responses. Maydica, 2020, 65(1): M1-M12.
+[15] Li K, Yu Y, Yan S, et al. Genetic basis of flavor complexity in sweet corn. Nature Genetics, 2025, 57: 2842-2851.
+[16] Li Q, Zhang Y, Zhang W, et al. Chemical modification of waxy maize starch by esterification with dodecenyl succinic anhydride. Food Chemistry, 2022, 393: 133293.
+
 二、研究内容和目标（包括具体研究内容、研究目标和效果、拟解决的关键问题。）
 （一）具体研究内容
 （1）高温胁迫下甜玉米籽粒发育的关键窗口期的判断：
